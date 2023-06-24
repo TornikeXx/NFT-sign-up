@@ -1,0 +1,18 @@
+.input{
+    
+    width: 330px;
+}
+
+.checkbox{
+    display: flex;
+    align-items: center;
+    
+    
+}
+.infos{
+    display: flex;
+    justify-content: space-between;
+}
+.checkbox input{
+    margin-top: 20px;
+}
